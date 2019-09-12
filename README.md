@@ -12,9 +12,14 @@ To use your work to date to create or update your LinkedIn and GatorConnect prof
 * To leverage work history, skills, accomplishments and interests to create a detailed profile
 * To create or update your profile on [GatorConnect](https://sites.allegheny.edu/gatorconnect/) and [LinkedIn](https://www.linkedin.com)
 
-## Helpful Links
+## Helpful links
 
 * [LinkedIn Student Guides](https://students.linkedin.com/), specifically:
     * [LinkedIn Student Profile Checklist](https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn%20Profile%20Checklist%20-%20College%20Students.pdf)
     * [Start Mapping Your Career with LinkedIn Alumni](https://blog.linkedin.com/2013/01/30/start-mapping-your-career-with-linkedin-alumni)
 * [GatorConnect](https://sites.allegheny.edu/gatorconnect/)
+
+## Links to your profiles
+
+* [LinkedIn]()
+* [GatorConnect]()

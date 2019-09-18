@@ -21,5 +21,5 @@ To use your work to date to create or update your LinkedIn and GatorConnect prof
 
 ## Links to your profiles
 
-* [LinkedIn]()
-* [GatorConnect]()
+* [LinkedIn](https://www.linkedin.com/in/marisolsantacruz2020/)
+* [GatorConnect](https://gators.force.com/alumni/Profile_Page1)

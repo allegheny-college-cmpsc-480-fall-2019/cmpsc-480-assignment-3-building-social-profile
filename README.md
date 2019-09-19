@@ -21,5 +21,5 @@ To use your work to date to create or update your LinkedIn and GatorConnect prof
 
 ## Links to your profiles
 
-* [LinkedIn]()
-* [GatorConnect]()
+* [Lancaster's LinkedIn](https://www.linkedin.com/in/lancaster-wu/)
+* [Lancaster's GatorConnect](https://gators.force.com/alumni/DirectorySearch?rel.contact.fname=Lancaster&)
